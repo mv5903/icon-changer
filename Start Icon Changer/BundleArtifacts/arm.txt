@@ -1,2 +1,0 @@
-MainPackage=C:\Users\matt\Documents\GitHub Repositories\icon-changer\Start Icon Changer\bin\ARM\Debug\Start Icon Changer_1.0.0.0_ARM_Debug.msix
-SymbolPackage=C:\Users\matt\Documents\GitHub Repositories\icon-changer\Start Icon Changer\obj\ARM\Debug\Symbols\Start Icon Changer_1.0.0.0_ARM_Debug.appxsym

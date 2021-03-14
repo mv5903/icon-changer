@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "New Start Icon Changer/1.0.0": {
+        "runtime": {
+          "New Start Icon Changer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New Start Icon Changer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
