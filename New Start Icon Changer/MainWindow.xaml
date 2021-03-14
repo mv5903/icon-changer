@@ -1,0 +1,17 @@
+﻿<Window x:Class="New_Start_Icon_Changer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:New_Start_Icon_Changer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <Button x:Name="chooseImage" Content="Choose Image" Margin="150,217,400,0" VerticalAlignment="Top" FontSize="30" FontFamily="Comic Sans MS" Click="ChooseImage_Click" Height="82"/>
+        <Button x:Name="chooseProgram" Content="Choose Program" Margin="400,217,138,0" VerticalAlignment="Top" FontSize="30" FontFamily="Comic Sans MS" Click="ChooseProgram_Click" Height="82"/>
+        <TextBox IsReadOnly="True" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,34,0,0" Text="Welcome to Start Icon Changer! Click the button below to choose a program. Browse to the image you would like (must be png) and browse to where the main exe of the program is located. This program will try its best to change the icon on the start menu." TextWrapping="Wrap" VerticalAlignment="Top" Height="159" Width="604" FontSize="26" FontFamily="Berlin Sans FB"/>
+        <Button Name="ReadyButton" Content="Choose Program and Image First" Margin="0,348,0,0" VerticalAlignment="Top" Height="58" Width="470" FontSize="30" HorizontalAlignment="Center" IsEnabled="False" Click="ReadyButton_Click"/>
+        <TextBlock Name="ImageStatus" Foreground="Red" HorizontalAlignment="Left" Margin="195,304,0,0" Text="Awaiting Selection" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="12" FontFamily="Tahoma"/>
+        <TextBlock Name="ProgramStatus" Foreground="Red" HorizontalAlignment="Left" Margin="451,304,0,0" Text="Awaiting Selection" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="12" FontFamily="Tahoma"/>
+    </Grid>
+</Window>

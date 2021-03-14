@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Start_Icon_Changer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Start_Icon_Changer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Button x:ConnectionId='2' x:Name="chooseImage" Content="Choose Image" Margin="164,388,0,0" VerticalAlignment="Top" FontSize="50" FontFamily="Comic Sans MS"                           Height="112" Width="581"/>
+        <Button x:ConnectionId='3' x:Name="chooseProgram" Content="Choose Program" Margin="750,388,0,0" VerticalAlignment="Top" FontSize="50" FontFamily="Comic Sans MS"                             Height="112" Width="547"/>
+        <TextBox TextAlignment="Center" HorizontalAlignment="Center" Margin="0,84,0,0" Text="Welcome to Start Icon Changer! Click the button below to choose a program. This program will try its best to change the icon on the start menu." TextWrapping="Wrap" VerticalAlignment="Top" Height="240" Width="934" FontSize="48" FontFamily="Berlin Sans FB"/>
+        <Button x:ConnectionId='4' Name="ReadyButton" Content="Choose Program and Image First" Margin="0,630,0,0" VerticalAlignment="Top" Height="135" Width="830" FontSize="48" HorizontalAlignment="Center" IsEnabled="False"                          />
+        <TextBlock x:ConnectionId='5' Name="ImageStatus" Foreground="Red" HorizontalAlignment="Left" Margin="301,527,0,0" Text="Awaiting Selection" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="38" FontFamily="Tahoma"/>
+        <TextBlock x:ConnectionId='6' Name="ProgramStatus" Foreground="Red" HorizontalAlignment="Left" Margin="871,527,0,0" Text="Awaiting Selection" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="38" FontFamily="Tahoma"/>
+
+
+    </Grid>
+</Page>
+

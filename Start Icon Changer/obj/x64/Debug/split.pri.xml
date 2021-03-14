@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Start Icon Changer.xr.xml" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Start Icon Changer.xr.xml">
+				<Candidate type="Path">
+					<Value>Start Icon Changer.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Win32.Registry.SR">
+			<NamedResource name="AccessControl_InvalidHandle" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/AccessControl_InvalidHandle">
+				<Candidate type="String">
+					<Value>The supplied handle is invalid. This can happen when trying to set an ACL on an anonymous kernel object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidRegistryKeyPermissionCheck" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Argument_InvalidRegistryKeyPermissionCheck">
+				<Candidate type="String">
+					<Value>The specified RegistryKeyPermissionCheck value is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidRegistryOptionsCheck" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Argument_InvalidRegistryOptionsCheck">
+				<Candidate type="String">
+					<Value>The specified RegistryOptions value is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidRegistryViewCheck" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Argument_InvalidRegistryViewCheck">
+				<Candidate type="String">
+					<Value>The specified RegistryView value is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_DllInitFailure" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_DllInitFailure">
+				<Candidate type="String">
+					<Value>One machine may not have remote administration enabled, or both machines may not be running the remote registry service.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_EnumIllegalVal" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_EnumIllegalVal">
+				<Candidate type="String">
+					<Value>Illegal enum value: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegBadKeyKind" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegBadKeyKind">
+				<Candidate type="String">
+					<Value>The specified RegistryValueKind is an invalid value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegGetOverflowBug" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegGetOverflowBug">
+				<Candidate type="String">
+					<Value>RegistryKey.GetValue does not allow a String that has a length greater than Int32.MaxValue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegInvalidKeyName" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegInvalidKeyName">
+				<Candidate type="String">
+					<Value>Registry key name must start with a valid base key name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyDelHive" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyDelHive">
+				<Candidate type="String">
+					<Value>Cannot delete a registry hive's subtree.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyNoRemoteConnect" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyNoRemoteConnect">
+				<Candidate type="String">
+					<Value>No remote connection to '{0}' while trying to read the registry.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyNotFound" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyNotFound">
+				<Candidate type="String">
+					<Value>The specified registry key does not exist.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyOutOfRange" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyOutOfRange">
+				<Candidate type="String">
+					<Value>Registry HKEY was out of the legal range.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyStrLenBug" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyStrLenBug">
+				<Candidate type="String">
+					<Value>Registry key names should not be greater than 255 characters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSetBadArrType" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSetBadArrType">
+				<Candidate type="String">
+					<Value>RegistryKey.SetValue does not support arrays of type '{0}'. Only Byte[] and String[] are supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSetMismatchedKind" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSetMismatchedKind">
+				<Candidate type="String">
+					<Value>The type of the value object did not match the specified RegistryValueKind or the object could not be properly converted.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSetStrArrNull" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSetStrArrNull">
+				<Candidate type="String">
+					<Value>RegistryKey.SetValue does not allow a String[] that contains a null String reference.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSubKeyAbsent" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSubKeyAbsent">
+				<Candidate type="String">
+					<Value>Cannot delete a subkey tree because the subkey does not exist.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSubKeyValueAbsent" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSubKeyValueAbsent">
+				<Candidate type="String">
+					<Value>No value exists with that name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegValStrLenBug" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Arg_RegValStrLenBug">
+				<Candidate type="String">
+					<Value>Registry value names should not be greater than 16,383 characters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOperation_RegRemoveSubKey" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/InvalidOperation_RegRemoveSubKey">
+				<Candidate type="String">
+					<Value>Registry key has subkeys and recursive removes are not supported by this method.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed_RegKeyClosed" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/ObjectDisposed_RegKeyClosed">
+				<Candidate type="String">
+					<Value>Cannot access a closed registry key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PlatformNotSupported_Registry" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/PlatformNotSupported_Registry">
+				<Candidate type="String">
+					<Value>Registry is not supported on this platform.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Security_RegistryPermission" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/Security_RegistryPermission">
+				<Candidate type="String">
+					<Value>Requested registry access is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnauthorizedAccess_RegistryKeyGeneric_Key" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/UnauthorizedAccess_RegistryKeyGeneric_Key">
+				<Candidate type="String">
+					<Value>Access to the registry key '{0}' is denied.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnauthorizedAccess_RegistryNoWrite" uri="ms-resource://cbbf7ae5-55cd-49ee-86e8-1e1e0b4abfd8/FxResources.Microsoft.Win32.Registry.SR/UnauthorizedAccess_RegistryNoWrite">
+				<Candidate type="String">
+					<Value>Cannot write to the registry key.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

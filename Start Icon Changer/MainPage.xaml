@@ -10,5 +10,13 @@
 
     <Grid>
 
+        <Button x:Name="chooseImage" Content="Choose Image" Margin="164,388,0,0" VerticalAlignment="Top" FontSize="50" FontFamily="Comic Sans MS" Click="chooseImage_Click" Height="112" Width="581"/>
+        <Button x:Name="chooseProgram" Content="Choose Program" Margin="750,388,0,0" VerticalAlignment="Top" FontSize="50" FontFamily="Comic Sans MS" Click="chooseProgram_Click" Height="112" Width="547"/>
+        <TextBox TextAlignment="Center" HorizontalAlignment="Center" Margin="0,84,0,0" Text="Welcome to Start Icon Changer! Click the button below to choose a program. This program will try its best to change the icon on the start menu." TextWrapping="Wrap" VerticalAlignment="Top" Height="240" Width="934" FontSize="48" FontFamily="Berlin Sans FB"/>
+        <Button Name="ReadyButton" Content="Choose Program and Image First" Margin="0,630,0,0" VerticalAlignment="Top" Height="135" Width="830" FontSize="48" HorizontalAlignment="Center" IsEnabled="False" Click="ReadyButton_Click"/>
+        <TextBlock Name="ImageStatus" Foreground="Red" HorizontalAlignment="Left" Margin="301,527,0,0" Text="Awaiting Selection" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="38" FontFamily="Tahoma"/>
+        <TextBlock Name="ProgramStatus" Foreground="Red" HorizontalAlignment="Left" Margin="871,527,0,0" Text="Awaiting Selection" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="38" FontFamily="Tahoma"/>
+
+
     </Grid>
 </Page>
