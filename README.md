@@ -2,11 +2,13 @@
 <br>
 Want to make your apps on your start menu go from looking like this:
 <br>
+<br>
 <p align="left">
   <img src="/images/mail.png" width="50" title="Old Style">
 </p>
 <br>
 To this?
+<br>
 <br>
 <p align="left">
   <img src="/images/discord.png" width="50" title="New Style">
